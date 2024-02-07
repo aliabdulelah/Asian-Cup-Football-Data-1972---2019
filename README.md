@@ -3,6 +3,16 @@
 ![Asian Cup Football Anlaysis 1972 - 2019](https://github.com/aliabdulelah/Asian-Cup-Football-Data-1972---2019/assets/129835709/b2422dc8-2676-40f3-be41-8dd154e16917)
 
 
+## Table of contents 
+- [Project Overview](#Project-Overview)
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [ Data Cleaning / Preparation](#Data-Cleaning-Preparation)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Results/Findings](#Data-Analysis-Results-Findings)
+
+  <br>
+  <br>
 
 ## Project Overview
 
@@ -19,26 +29,9 @@ In this project, you are going to analyze analysis this big  [dataset](https://w
 7.  Avg scores for each champion overtime
 
 
-<br>
-<br>
+
 <br>
 <br>
 
 
-## Table of contents 
-- [Project Overview](#Project-Overview)
-- [Data Source](#Data-Source)
-- [Tools](#Tools)
-- [ Data Cleaning / Preparation](#Data-Cleaning-Preparation)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Results/Findings](#Data-Analysis-Results-Findings)
-### We should answer on these questions:
-
-1.  top 10 for teams scores
-2.  The most 10 teams wins
-3.  champions list history 
-4.  loctaions for countries host 
-5.  Top 10 scorers 
-6.  Top 5 countries host for matches
-7.  Avg scores for each champion overtime
 

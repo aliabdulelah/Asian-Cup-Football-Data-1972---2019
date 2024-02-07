@@ -85,7 +85,7 @@ date of championships: year of the championship which played matches
 ### Tools 
 - Excel - Data Cleaning
 - PostgreSQL - Data Analysis
-- Tableau - [Data Visualization]([https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017](https://tabsoft.co/3ummkfy))
+- Tableau - [Data Visualization](https://tabsoft.co/3ummkfy)
 
 <br>
 <be>

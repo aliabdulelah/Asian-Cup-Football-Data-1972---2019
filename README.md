@@ -1,4 +1,4 @@
-# Asian-Cup-Football-Data-1972---2019
+# Asian-Cup-Football-Data-1972-2019
 
 ![Asian Cup Football Anlaysis 1972 - 2019](https://github.com/aliabdulelah/Asian-Cup-Football-Data-1972---2019/assets/129835709/b2422dc8-2676-40f3-be41-8dd154e16917)
 
@@ -22,7 +22,7 @@ Our project aims to conduct a comprehensive analysis of the Asian Cup Football D
 
 
 ### Data Source
-In this project, you are going to analyze analysis this big  [dataset](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017). The dataset contains information about 45,315 results of international football matches starting from the very first official match to in 1872 up to 2023. We are going to find the answers to questions like:
+In this project, you are going to analyze  this big  [dataset](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017). The dataset contains information about 45,315 results of international football matches starting from the very first official match to in 1872 up to 2023. We are going to find the answers to questions like:
 
 1.  top 10 for teams scores
 2.  The most 10 teams wins
@@ -32,7 +32,7 @@ In this project, you are going to analyze analysis this big  [dataset](https://w
 <be>
 
 ### Data Tables
-There is 3 tables that will we use to our project analysis :
+3 tables will we use to our project analysis :
 
 1. asianfootball.csv. it's content 370 Rows
 

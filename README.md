@@ -85,8 +85,7 @@ date of championships: year of the championship which played matches
 
 ### Tools 
 - Excel - Data Cleaning
-- PostgreSQL - Data Analysis
-- Tableau - [Data Visualization](https://tabsoft.co/3ummkfy)
+- PostgreSQL - Data Analysis by SQL [DataLab](https://www.datacamp.com/datalab/w/6a50fded-3218-4b61-8791-e96f1971cf49/edit)
 
 <br>
 <be>
